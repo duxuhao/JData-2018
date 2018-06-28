@@ -2,8 +2,8 @@ import datetime
 import numpy as np
 import pandas as pd
 
-order = pd.read_csv('./B/jdata_user_order.csv', parse_dates=['o_date'])
-sku = pd.read_csv('./B/jdata_sku_basic_info.csv', )
+order = pd.read_csv('../B/jdata_user_order.csv', parse_dates=['o_date'])
+sku = pd.read_csv('../B/jdata_sku_basic_info.csv', )
 order = pd.merge(order, sku, on='sku_id', how='left')
 target_order = order[(order.cate == 101) | (order.cate == 30)].reset_index(drop=True)
 first_day = datetime.datetime.strptime('2016-08-31 00:00:00', '%Y-%m-%d %H:%M:%S')

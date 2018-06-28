@@ -19,12 +19,16 @@ The code for [JData-2018](https://jdata.jd.com/html/detail.html?id=2)
 
    -- Select.py
 
-or the selection file for general dataset on both S1 and S2
+- or the selection file for general dataset on both S1 and S2
 
    -- Select_com.py
+   
+   -- The log file is the output from t he features selection process
 
 - The details of the selection library usage can refer to my another repo
 
 [MLFeatureSelection](https://github.com/duxuhao/Feature-Selection)
 
 [![PyPI version](https://badge.fury.io/py/MLFeatureSelection.svg)](https://pypi.org/project/MLFeatureSelection/)
+
+## Detail is coming
