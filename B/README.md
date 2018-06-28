@@ -1,1 +1,1 @@
-# Raw data should placed in this folder
+# Folder storing the Raw data
