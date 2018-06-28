@@ -1,0 +1,201 @@
+
+Start!
+%------------------------------------------------------------%
+
+Done
+['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8']
+%------------------------------------------------------------%
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.646379	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'Prob_x']
+*0.646379
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 Prob_x 
+
+Done
+['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8']
+%------------------------------------------------------------%
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.648444	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'Prob_x']
+*0.648444
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 Prob_x 
+1  age_x  0:
+0.648458	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'Prob_x', 'age_x', 'Prob_x']
+*0.648458
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 Prob_x age_x Prob_x 
+
+Done
+['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8']
+%------------------------------------------------------------%
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.648047	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'age_x', 'Prob_x']
+*0.648047
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 age_x Prob_x 
+6  cate_sku_near_num_78  0:
+0.648233	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'age_x', 'Prob_x', 'cate_sku_near_num_78', 'Prob_x']
+*0.648233
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 age_x Prob_x cate_sku_near_num_78 Prob_x 
+
+Done
+['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'age_x']
+%------------------------------------------------------------%
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.648444	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'Prob_x']
+*0.648444
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 Prob_x 
+
+Done
+['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8']
+%------------------------------------------------------------%
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.648444	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'Prob_x']
+*0.648444
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 Prob_x 
+
+Done
+['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'Prob_x']
+%------------------------------------------------------------%
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.684068	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'daybeforelastbuy_o_sum', 'o_day_series', 'CommentEndDateDifference', 'Prob_x']
+*0.684068
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 daybeforelastbuy_o_sum o_day_series CommentEndDateDifference Prob_x 
+13  o_day_series_o_max  0:
+0.684114	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'daybeforelastbuy_o_sum', 'o_day_series', 'CommentEndDateDifference', 'Prob_x', 'o_day_series_o_max']
+*0.684114
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 daybeforelastbuy_o_sum o_day_series CommentEndDateDifference Prob_x o_day_series_o_max 
+18  c_day_series_o_min  0:
+0.684251	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'daybeforelastbuy_o_sum', 'o_day_series', 'CommentEndDateDifference', 'Prob_x', 'c_day_series_o_min']
+*0.684251
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 daybeforelastbuy_o_sum o_day_series CommentEndDateDifference Prob_x c_day_series_o_min 
+19  c_day_series_o_max  0:
+0.684295	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'daybeforelastbuy_o_sum', 'o_day_series', 'CommentEndDateDifference', 'Prob_x', 'c_day_series_o_max']
+*0.684295
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 daybeforelastbuy_o_sum o_day_series CommentEndDateDifference Prob_x c_day_series_o_max 
+54  daybeforelastbuy_o_ave_o_o_month_series_o_max_o_user_id_3month  0:
+0.684459	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'daybeforelastbuy_o_sum', 'o_day_series', 'CommentEndDateDifference', 'Prob_x', 'daybeforelastbuy_o_ave_o_o_month_series_o_max_o_user_id_3month']
+*0.684459
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 daybeforelastbuy_o_sum o_day_series CommentEndDateDifference Prob_x daybeforelastbuy_o_ave_o_o_month_series_o_max_o_user_id_3month 
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.684459	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'daybeforelastbuy_o_sum', 'o_day_series', 'CommentEndDateDifference', 'Prob_x', 'daybeforelastbuy_o_ave_o_o_month_series_o_max_o_user_id_3month']
+*0.684459
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 daybeforelastbuy_o_sum o_day_series CommentEndDateDifference Prob_x daybeforelastbuy_o_ave_o_o_month_series_o_max_o_user_id_3month 
+
+Done
+['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'daybeforelastbuy_o_sum', 'o_day_series', 'CommentEndDateDifference', 'Prob_x', 'daybeforelastbuy_o_ave_o_o_month_series_o_max_o_user_id_3month']
+%------------------------------------------------------------%
+
+Start!
+%------------------------------------------------------------%
+
+Done
+['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'daybeforelastbuy_o_sum', 'o_day_series', 'CommentEndDateDifference', 'Prob_x', 'daybeforelastbuy_o_ave_o_o_month_series_o_max_o_user_id_3month']
+%------------------------------------------------------------%
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.684459	['nextbuy_1', 'nextbuy_2', 'nextbuy_3', 'nextbuy_4', 'nextbuy_5', 'nextbuy_6', 'nextbuy_7', 'nextbuy_8', 'daybeforelastbuy_o_sum', 'o_day_series', 'CommentEndDateDifference', 'Prob_x', 'daybeforelastbuy_o_ave_o_o_month_series_o_max_o_user_id_3month']
+*0.684459
+nextbuy_1 nextbuy_2 nextbuy_3 nextbuy_4 nextbuy_5 nextbuy_6 nextbuy_7 nextbuy_8 daybeforelastbuy_o_sum o_day_series CommentEndDateDifference Prob_x daybeforelastbuy_o_ave_o_o_month_series_o_max_o_user_id_3month 
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.683749	['Prob_x']
+*0.683749
+Prob_x 
+32  para_2_o_max  0:
+0.683768	['Prob_x', 'para_2_o_max']
+*0.683768
+Prob_x para_2_o_max 
+45  o_sku_num_o_min  0:
+0.683822	['Prob_x', 'o_sku_num_o_min']
+*0.683822
+Prob_x o_sku_num_o_min 
+46  o_sku_num_o_max  0:
+0.683846	['Prob_x', 'o_sku_num_o_max']
+*0.683846
+Prob_x o_sku_num_o_max 
+53  o_month_series_o_max  0:
+0.684174	['Prob_x', 'o_month_series_o_max']
+*0.684174
+Prob_x o_month_series_o_max 
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.684174	['Prob_x', 'o_month_series_o_max']
+*0.684174
+Prob_x o_month_series_o_max 
+163  OrderPluxAveInRange  0:
+0.684469	['Prob_x', 'o_month_series_o_max', 'OrderPluxAveInRange']
+*0.684469
+Prob_x o_month_series_o_max OrderPluxAveInRange 
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.684469	['Prob_x', 'o_month_series_o_max', 'OrderPluxAveInRange']
+*0.684469
+Prob_x o_month_series_o_max OrderPluxAveInRange 
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.684469	['Prob_x', 'o_month_series_o_max', 'OrderPluxAveInRange']
+*0.684469
+Prob_x o_month_series_o_max OrderPluxAveInRange 
+
+Done
+['Prob_x', 'o_month_series_o_max', 'OrderPluxAveInRange']
+%------------------------------------------------------------%
+
+Start!
+%------------------------------------------------------------%
+0  baseline  0:
+0.684469	['Prob_x', 'o_month_series_o_max', 'OrderPluxAveInRange']
+*0.684469
+Prob_x o_month_series_o_max OrderPluxAveInRange 
+827  a_num_a_std_3month  0:
+0.684551	['Prob_x', 'o_month_series_o_max', 'OrderPluxAveInRange', 'a_num_a_std_3month']
+*0.684551
+Prob_x o_month_series_o_max OrderPluxAveInRange a_num_a_std_3month 
+27  para_2_o_ave  0:
+0.684591	['Prob_x', 'o_month_series_o_max', 'OrderPluxAveInRange', 'a_num_a_std_3month', 'para_2_o_ave']
+*0.684591
+Prob_x o_month_series_o_max OrderPluxAveInRange a_num_a_std_3month para_2_o_ave 
+47  o_sku_num  0:
+0.684689	['Prob_x', 'o_month_series_o_max', 'OrderPluxAveInRange', 'a_num_a_std_3month', 'o_sku_num']
+*0.684689
+Prob_x o_month_series_o_max OrderPluxAveInRange a_num_a_std_3month o_sku_num 
+209  order_area_num_78  0:
+0.684701	['Prob_x', 'o_month_series_o_max', 'OrderPluxAveInRange', 'a_num_a_std_3month', 'order_area_num_78']
+*0.684701
+Prob_x o_month_series_o_max OrderPluxAveInRange a_num_a_std_3month order_area_num_78 
+766  price_a_ave_cate_a_std_3month  0:
+0.684889	['Prob_x', 'o_month_series_o_max', 'OrderPluxAveInRange', 'a_num_a_std_3month', 'price_a_ave_cate_a_std_3month']
+*0.684889
+Prob_x o_month_series_o_max OrderPluxAveInRange a_num_a_std_3month price_a_ave_cate_a_std_3month 
+8  daybeforelastbuy_o_sum  0:
+0.685002	['Prob_x', 'o_month_series_o_max', 'OrderPluxAveInRange', 'a_num_a_std_3month', 'price_a_ave_cate_a_std_3month', 'daybeforelastbuy_o_sum']
+*0.685002
+Prob_x o_month_series_o_max OrderPluxAveInRange a_num_a_std_3month price_a_ave_cate_a_std_3month daybeforelastbuy_o_sum 
