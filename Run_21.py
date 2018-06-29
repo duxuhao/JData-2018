@@ -33,7 +33,7 @@ def predict(Xtrain_all, Xpre, features, clf,fn):
     Xpre['Prob'] = clf[0].predict_proba(Xpre[features[0]])[:,1]
     #clf[1].fit(Xtrain_all[features[1]],Xtrain_all.nextbuy, eval_set = [(Xtrain_all[features[1]],Xtrain_all.nextbuy)], verbose=True)
     #Xpre['Days'] = clf[1].predict(Xpre[features[1]])
-    Xpre['Days'] = 7
+    Xpre['Days'] = 0
     Xpre['pred_date'] = Xpre['Days'].apply(lambda x: (datetime.timedelta(days=x) + first_day).strftime("%Y-%m-%d"))
     Xpre.sort_values(by = ['Prob'], ascending = False, inplace = True)
     Xpre[['user_id','Prob']].to_csv('prob_{}.csv'.format(fn), index = None)
@@ -66,7 +66,7 @@ def predictsecond(Xtrain_all, Xpre, features, clf,fn):
     print('temp: {}'.format(temp_user.shape))
     Xpre = temp_user.merge(Xpre, on = 'user_id', how = 'left')
     print('pre: {}'.format(Xpre.shape))
-    Xpre['Days'] = 7
+    Xpre['Days'] = 0
     Xpre['pred_date'] = Xpre['Days'].apply(lambda x: (datetime.timedelta(days=x) + first_day).strftime("%Y-%m-%d"))
     Xpre.sort_values(by = ['Prob'], ascending = False, inplace = True)
     Xpre[['user_id','Prob']].to_csv('prob_{}.csv'.format(fn), index = None)

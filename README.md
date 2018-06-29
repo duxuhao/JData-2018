@@ -1,6 +1,8 @@
 # JData-2018
 The code for [JData-2018](https://jdata.jd.com/html/detail.html?id=2)
 
+Rank: 9th
+
 ## How to Run
 
 - run the following file to create necessary features dataset
