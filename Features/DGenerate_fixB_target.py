@@ -3,11 +3,11 @@ import pandas as pd
 from datetime import timedelta
 
 print('loading data...')
-sku_basic = pd.read_csv('../B/jdata_sku_basic_info.csv')
-user_basic = pd.read_csv('../B/jdata_user_basic_info.csv')
-user_action = pd.read_csv('../B/jdata_user_action.csv')
-user_order = pd.read_csv('../B/jdata_user_order.csv')
-user_comment = pd.read_csv('../B/jdata_user_comment_score.csv')
+sku_basic = pd.read_csv('B/jdata_sku_basic_info.csv')
+user_basic = pd.read_csv('B/jdata_user_basic_info.csv')
+user_action = pd.read_csv('B/jdata_user_action.csv')
+user_order = pd.read_csv('B/jdata_user_order.csv')
+user_comment = pd.read_csv('B/jdata_user_comment_score.csv')
 
 
 print('getting datetime...')

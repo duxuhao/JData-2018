@@ -2,12 +2,12 @@ import pandas as pd
 import numpy as np
 import datetime
 
-sku = pd.read_csv('../B/jdata_sku_basic_info.csv', )
-action = pd.read_csv('../B/jdata_user_action.csv', parse_dates=['a_date'])
-basic_info = pd.read_csv('../B/jdata_user_basic_info.csv')
-comment_score = pd.read_csv('../B/jdata_user_comment_score.csv', parse_dates=['comment_create_tm'])
+sku = pd.read_csv('B/jdata_sku_basic_info.csv', )
+action = pd.read_csv('B/jdata_user_action.csv', parse_dates=['a_date'])
+basic_info = pd.read_csv('B/jdata_user_basic_info.csv')
+comment_score = pd.read_csv('B/jdata_user_comment_score.csv', parse_dates=['comment_create_tm'])
 comment_score = comment_score.sort_values(by = 'comment_create_tm').reset_index(drop = True)
-order = pd.read_csv('../B/jdata_user_order.csv', parse_dates=['o_date'])
+order = pd.read_csv('B/jdata_user_order.csv', parse_dates=['o_date'])
 sku.ix[sku.para_2 == -1,'para_2'] = np.nan
 sku.ix[sku.para_3 == -1,'para_3'] = np.nan
 order = pd.merge(order, comment_score.drop_duplicates(subset =  ['user_id','o_id'],keep='last'), on=['user_id','o_id'], how = 'left')

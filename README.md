@@ -33,4 +33,4 @@ Rank: 9th
 
 [![PyPI version](https://badge.fury.io/py/MLFeatureSelection.svg)](https://pypi.org/project/MLFeatureSelection/)
 
-## Detail is coming
+## Detail is in [here](https://github.com/duxuhao/JData-2018/blob/master/D国反击战_9_S1.pdf)
