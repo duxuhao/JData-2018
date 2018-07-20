@@ -1,7 +1,7 @@
 # JData-2018
 The code for [JData-2018](https://jdata.jd.com/html/detail.html?id=2)
 
-Rank: 9th
+Rank: 6th
 
 ## How to Run
 
